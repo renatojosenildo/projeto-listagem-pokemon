@@ -1,0 +1,9 @@
+*{
+    margn: 0;
+    padding: 0;
+    box-sizing: borde-box;
+}
+
+ul{
+    list-style: none;
+}
